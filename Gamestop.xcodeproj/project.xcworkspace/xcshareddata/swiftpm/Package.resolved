@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "starrateview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/giiiita/StarRateView.git",
+      "state" : {
+        "revision" : "396356c22dc3539b5ff28313696f8bfd6947e266",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

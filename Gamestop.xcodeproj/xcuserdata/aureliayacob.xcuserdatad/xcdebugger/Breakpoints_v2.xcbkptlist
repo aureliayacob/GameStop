@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CEA6DDE7-6446-431C-B21E-FE6146D117E0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C44D63E-904F-433F-A9B8-C26C9B4FEBAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gamestop/Core/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F73EA1D-8871-448F-A065-F9798A60ECEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gamestop/Services/GameDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getGames()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F73EA1D-8871-448F-A065-F9798A60ECEE - 6ab388d79f80c5dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Gamestop.AllGames) -&gt; () in Gamestop.GameDataService.getGames() -&gt; ()"
+                  moduleName = "Gamestop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aureliayacob/Downloads/2022103116581673d738468fe69d382cc8eadbff379329%20(1)/Gamestop/Gamestop/Services/GameDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "2F73EA1D-8871-448F-A065-F9798A60ECEE - 6ab388d79f80c5dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Gamestop.AllGames) -&gt; () in Gamestop.GameDataService.getGames() -&gt; ()"
+                  moduleName = "Gamestop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aureliayacob/Downloads/2022103116581673d738468fe69d382cc8eadbff379329%20(1)/Gamestop/Gamestop/Services/GameDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "2F73EA1D-8871-448F-A065-F9798A60ECEE - 6ab388d79f80c4a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Gamestop.AllGames) -&gt; () in Gamestop.GameDataService.getGames() -&gt; ()"
+                  moduleName = "Gamestop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aureliayacob/Downloads/2022103116581673d738468fe69d382cc8eadbff379329%20(1)/Gamestop/Gamestop/Services/GameDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DED2C38C-70C1-4DD3-8A08-5613011BD4DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gamestop/Services/GameDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getGames()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
